@@ -1,0 +1,7 @@
+{
+  "name": "jetstream-proxy",
+  "kind": "tool",
+  "version": "2.0.1",
+  "license": "Apache-2.0",
+  "description": "Local proxy utility for service mesh debugging."
+}
