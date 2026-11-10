@@ -1,0 +1,7 @@
+{
+  "name": "verdant-cms",
+  "kind": "sdk",
+  "version": "2.0.0",
+  "license": "Apache-2.0",
+  "description": "Client SDK for the legacy content management deployment."
+}
