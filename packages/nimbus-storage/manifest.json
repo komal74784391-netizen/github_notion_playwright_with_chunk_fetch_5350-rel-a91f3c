@@ -1,0 +1,7 @@
+{
+  "name": "nimbus-storage",
+  "kind": "sdk",
+  "version": "2.2.0",
+  "license": "Apache-2.0",
+  "description": "Object storage client library for application teams."
+}
