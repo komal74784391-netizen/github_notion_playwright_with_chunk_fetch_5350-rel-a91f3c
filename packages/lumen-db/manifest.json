@@ -1,0 +1,7 @@
+{
+  "name": "lumen-db",
+  "kind": "service",
+  "version": "1.3.0",
+  "license": "MIT",
+  "description": "Managed query service for the analytics warehouse."
+}
