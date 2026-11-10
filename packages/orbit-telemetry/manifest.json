@@ -1,0 +1,7 @@
+{
+  "name": "orbit-telemetry",
+  "kind": "sdk",
+  "version": "0.4.2",
+  "license": "MIT",
+  "description": "Telemetry reporting SDK for client applications."
+}
