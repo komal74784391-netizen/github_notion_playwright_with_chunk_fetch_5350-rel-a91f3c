@@ -1,0 +1,7 @@
+{
+  "name": "ridge-schema",
+  "kind": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Schema validation and migration helpers."
+}
