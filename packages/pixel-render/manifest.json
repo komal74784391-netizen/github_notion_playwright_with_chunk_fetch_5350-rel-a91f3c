@@ -1,0 +1,7 @@
+{
+  "name": "pixel-render",
+  "kind": "tool",
+  "version": "1.5.0",
+  "license": "MIT",
+  "description": "Preview renderer for catalog assets."
+}
