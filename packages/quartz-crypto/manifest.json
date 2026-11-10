@@ -1,0 +1,7 @@
+{
+  "name": "quartz-crypto",
+  "kind": "library",
+  "version": "0.8.1",
+  "license": "Apache-2.0",
+  "description": "Cryptographic helper library for storage envelopes."
+}
