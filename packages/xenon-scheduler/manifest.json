@@ -1,0 +1,7 @@
+{
+  "name": "xenon-scheduler",
+  "kind": "tool",
+  "version": "1.8.4",
+  "license": "MIT",
+  "description": "Batch scheduling companion for the compute fleet."
+}
