@@ -1,0 +1,7 @@
+{
+  "name": "flint-auth",
+  "kind": "library",
+  "version": "1.4",
+  "license": "MIT",
+  "description": "Shared authentication primitives for internal services."
+}
