@@ -1,0 +1,7 @@
+{
+  "name": "driftline-config",
+  "kind": "service",
+  "version": "0.6.0",
+  "license": "MIT",
+  "description": "Central configuration distribution service."
+}
