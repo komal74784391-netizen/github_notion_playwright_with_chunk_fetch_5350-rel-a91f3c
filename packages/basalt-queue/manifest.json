@@ -1,0 +1,7 @@
+{
+  "name": "basalt-queue",
+  "kind": "library",
+  "version": "1.1.0",
+  "license": "MIT",
+  "description": "Durable task queue for the compute fleet."
+}
