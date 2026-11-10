@@ -1,0 +1,7 @@
+{
+  "name": "isotope-log",
+  "kind": "library",
+  "version": "1.0.2",
+  "license": "MIT",
+  "description": "Structured log shipping library for edge workloads."
+}
