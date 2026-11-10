@@ -1,0 +1,33 @@
+# Northwind release catalog ownership
+* @platform-team
+
+packages/basalt-queue/ @basalt-systems
+packages/cinder-cli/ @cli-tools
+packages/flint-auth/ @auth-platform
+packages/halcyon-ui/ @ui-foundation
+packages/isotope-log/ @observability
+packages/mosaic-pdf/ @document-services
+packages/quartz-crypto/ @crypto-core
+packages/verdant-cms/ @content-platform
+packages/lumen-db/ @lumen-core
+packages/xenon-scheduler/ @scheduler-team
+packages/arbor-cache/ @cache-guild
+packages/beacon-metrics/ @telemetry-ops
+packages/coral-i18n/ @localization
+packages/driftline-config/ @config-infra
+packages/ember-mail/ @messaging
+packages/fern-routing/ @edge-routing
+packages/geyser-billing/ @billing-core
+packages/harbor-search/ @search-platform
+packages/ivory-queue/ @queue-guild
+packages/jetstream-proxy/ @proxy-team
+packages/keystone-audit/ @audit-team
+packages/lantern-docs/ @docs-experience
+packages/meridian-sync/ @sync-platform
+packages/nimbus-storage/ @storage-team
+packages/orbit-telemetry/ @telemetry-core
+packages/pixel-render/ @render-team
+packages/quill-notify/ @notification-svc
+packages/ridge-schema/ @schema-guild
+packages/summit-export/ @export-tools
+packages/tundra-crawler/ @crawler-sdk
