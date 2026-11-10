@@ -1,0 +1,7 @@
+{
+  "name": "arbor-cache",
+  "kind": "library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "In-process cache with warm-start persistence."
+}
