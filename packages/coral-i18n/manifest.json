@@ -1,0 +1,7 @@
+{
+  "name": "coral-i18n",
+  "kind": "library",
+  "version": "1.2.5",
+  "license": "MIT",
+  "description": "Message catalog and locale fallback helpers."
+}
