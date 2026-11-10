@@ -1,0 +1,7 @@
+{
+  "name": "mosaic-pdf",
+  "kind": "service",
+  "version": "1.6.0",
+  "license": "Apache-2.0",
+  "description": "Document composition service that renders catalog reports."
+}
