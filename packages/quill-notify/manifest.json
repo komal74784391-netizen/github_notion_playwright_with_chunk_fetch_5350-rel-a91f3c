@@ -1,0 +1,7 @@
+{
+  "name": "quill-notify",
+  "kind": "service",
+  "version": "0.7.1",
+  "license": "MIT",
+  "description": "Notification fanout service for release events."
+}
