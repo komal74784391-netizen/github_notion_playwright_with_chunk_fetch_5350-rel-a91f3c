@@ -1,0 +1,7 @@
+{
+  "name": "harbor-search",
+  "kind": "service",
+  "version": "0.9.0",
+  "license": "BSD-3-Clause",
+  "description": "Catalog search API backed by the shared index."
+}
