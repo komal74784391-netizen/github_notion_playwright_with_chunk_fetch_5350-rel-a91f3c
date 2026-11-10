@@ -1,0 +1,7 @@
+{
+  "name": "halcyon-ui",
+  "kind": "service",
+  "version": "0.9.3",
+  "license": "MIT License",
+  "description": "Design system hosting service for shared interface assets."
+}
