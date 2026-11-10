@@ -1,0 +1,7 @@
+{
+  "name": "geyser-billing",
+  "kind": "service",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "description": "Invoice generation and usage metering service."
+}
