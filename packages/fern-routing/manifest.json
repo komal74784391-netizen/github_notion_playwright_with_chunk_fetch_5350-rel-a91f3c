@@ -1,0 +1,7 @@
+{
+  "name": "fern-routing",
+  "kind": "library",
+  "version": "2.1.0",
+  "license": "MIT",
+  "description": "Routing table primitives for edge gateways."
+}
