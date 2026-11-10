@@ -14,3 +14,7 @@ Add the package to your catalog manifest and sync the release train.
 ## Maintainer
 
 Maintainer: @edge-routing
+
+## Runbook
+
+See the delivery checklist in the release handbook before promoting this package.
