@@ -1,0 +1,7 @@
+{
+  "name": "ember-mail",
+  "kind": "service",
+  "version": "1.9.0",
+  "license": "MIT",
+  "description": "Transactional mail relay for product notifications."
+}
