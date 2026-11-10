@@ -1,0 +1,7 @@
+{
+  "name": "meridian-sync",
+  "kind": "library",
+  "version": "1.7.1",
+  "license": "MIT",
+  "description": "State synchronisation helpers for offline clients."
+}
