@@ -1,0 +1,7 @@
+{
+  "name": "cinder-cli",
+  "kind": "tool",
+  "version": "2.3.1",
+  "license": "Apache-2.0",
+  "description": "Developer command line for the release catalog."
+}
