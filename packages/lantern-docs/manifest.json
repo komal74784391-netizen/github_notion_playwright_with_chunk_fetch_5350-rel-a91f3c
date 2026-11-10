@@ -1,0 +1,7 @@
+{
+  "name": "lantern-docs",
+  "kind": "tool",
+  "version": "0.5.0",
+  "license": "MIT",
+  "description": "Documentation site generator for package handbooks."
+}
