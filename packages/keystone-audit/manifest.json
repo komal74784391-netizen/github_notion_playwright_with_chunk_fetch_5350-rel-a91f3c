@@ -1,0 +1,7 @@
+{
+  "name": "keystone-audit",
+  "kind": "service",
+  "version": "1.0.3",
+  "license": "MIT",
+  "description": "Audit event collection service for compliance reviews."
+}
