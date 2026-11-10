@@ -1,0 +1,7 @@
+{
+  "name": "tundra-crawler",
+  "kind": "sdk",
+  "version": "0.9.1",
+  "license": "MIT",
+  "description": "Crawler client SDK for partner integrations."
+}
